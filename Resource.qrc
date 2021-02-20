@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/">
+    <file>Resources/Splash2013Background.png</file>
+    <file>Resources/Splash2015Background.png</file>
+    <file>Resources/Splash2019Background.png</file>
+    <file>Resources/Splash1.gif</file>
+    <file>Resources/Splash2.gif</file>
+  </qresource>
+</RCC>
